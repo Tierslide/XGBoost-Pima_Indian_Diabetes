@@ -1,4 +1,4 @@
-# XGBoost-Pima_Indian_Diabetes-
+# XGBoost-Pima_Indian_Diabetes
 XGBoost的简单实现—以Pima_Indian_Diabetes数据集为例
 1. 请将数据文件“pima-indians-diabetes_train.csv”和文件“Pima_Indian_Diabetes.py”放在同一文件夹下
 2. 在pycharm中打开并执行“Pima_Indian_Diabetes.py”
