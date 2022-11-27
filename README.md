@@ -7,3 +7,5 @@ XGBoost的简单实现—以Pima_Indian_Diabetes数据集为例
 
 ## 2022.11.26 更新
 目前Pima_Indian_Diabetes.py中的“参数部分”是未经过调参的，调参的步骤正在学习中
+## 2022.11.27 更新
+目前Pima_Indian_Diabetes_tuneparams.py中已经包含调整过后的参数，以及调参用的代码
